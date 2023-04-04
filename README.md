@@ -3,6 +3,12 @@
 The following repository is a demonstration of how to train a [decision transformer](https://arxiv.org/pdf/2106.01345.pdf) 
 for the [2D Walker Environment](https://mgoulao.github.io/gym-docs/environments/mujoco/walker2d/).
 
+<div align="center">
+  
+  ![video/2d_walk.gif](video/2d_walk.gif)
+
+</div>
+
 ## Installation
 1. Install Python 3.9.
 2. Install `requirements.txt` (e.g via `pip install -r requirements.txt`).
